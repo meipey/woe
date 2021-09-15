@@ -7,6 +7,7 @@ fields:
   name: woe
   label: woe
   default: made with stastic
+  description: woe
 - name: permalink
   type: text
   label: Permalink
