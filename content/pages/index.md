@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/index"
-title: index
+title: home
 
 ---
 # test 1
