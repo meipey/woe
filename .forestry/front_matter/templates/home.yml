@@ -1,6 +1,10 @@
 ---
 label: home
 fields:
+  - type: file
+    name: sloganlogo
+    label: huisje
+    default: ''
   - type: text
     name: woe
     label: woe
