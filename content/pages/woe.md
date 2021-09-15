@@ -5,5 +5,6 @@ permalink: "/"
 aristophane: aristophane !
 goodname: 'good good good ! '
 sloganlogo: "/uploads/logo.png"
+woecolor: "#1268DD"
 
 ---
