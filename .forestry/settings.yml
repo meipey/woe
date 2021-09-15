@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: CONTENT
 - type: document
-  path: page3
+  path: content/page3.md
   label: page3
 - type: directory
   path: content/pages
