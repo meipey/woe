@@ -1,7 +1,7 @@
 ---
 woe: page 1
 layout: home
-permalink: woe
+permalink: "/woe"
 aristophane: aristo
 goodname: good
 
