@@ -31,3 +31,5 @@ fields:
   default: page-1
   config:
     required: true
+pages:
+- content/pages/woe.md
