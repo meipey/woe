@@ -6,9 +6,11 @@ webhook_url:
 sections:
 - type: heading
   label: CONTENT
-- type: document
-  path: content/page3.md
-  label: page3
+- type: directory
+  path: content/woensdag
+  label: woensdag
+  create: all
+  match: "**/*.md"
 - type: directory
   path: content/pages
   label: Pages
