@@ -1,5 +1,5 @@
 ---
-label: Page 1
+label: home
 fields:
   - type: text
     name: woe
@@ -14,7 +14,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: page-1
+    default: home
     config:
       required: true
 display_field: permalink
