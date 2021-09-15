@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: "/page1"
-title: home
+permalink: "/index"
+title: index
 
 ---
 # test 1
