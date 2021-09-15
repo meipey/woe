@@ -1,35 +1,37 @@
 ---
 label: Page 1
-fields:
-  - type: file
-    name: sloganlogo
-    label: huisje
-    default: ''
-  - type: color
-    name: woecolor
-    label: woecolor
-    default: ''
-    config:
-      color_format: Hex
-  - type: text
-    name: aristophane
-    label: aristophane
-    default: aristophane2
-  - type: text
-    name: goodname
-    label: goodname
-    default: goodname
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: page-1
-    config:
-      required: true
-display_field: permalink
 hide_body: true
+display_field: permalink
+fields:
+- type: file
+  name: sloganlogo
+  label: huisje
+  default: ''
+- type: color
+  name: woecolor
+  label: woecolor
+  default: ''
+  config:
+    color_format: Hex
+- type: text
+  name: aristophane
+  label: aristophane
+  default: aristophane2
+- type: text
+  name: goodname
+  label: goodname
+  default: goodname
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: page-1
+  config:
+    required: true
+pages:
+- content/pages/woe.md
