@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: /
+permalink: "/page1"
 title: home
 
 ---
-
 # test 1
 ___
 
