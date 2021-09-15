@@ -1,7 +1,7 @@
 ---
 woe: page 1
 layout: home
-permalink: "/"
+permalink: "/home"
 aristophane: aristophane !
 goodname: 'good good good ! '
 sloganlogo: "/uploads/logo.png"
