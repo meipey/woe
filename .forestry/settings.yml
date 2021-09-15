@@ -7,11 +7,6 @@ sections:
 - type: heading
   label: CONTENT
 - type: directory
-  path: content/woensdag
-  label: woensdag
-  create: all
-  match: "**/*.md"
-- type: directory
   path: content/pages
   label: Pages
   create: documents
