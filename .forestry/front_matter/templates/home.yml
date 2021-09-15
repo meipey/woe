@@ -34,5 +34,4 @@ fields:
   config:
     required: true
 pages:
-- content/pages/woe.md
 - content/woensdag/woens.md
